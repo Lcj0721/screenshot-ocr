@@ -1,0 +1,5 @@
+{
+  "hotkey": "ctrl+windows+x",
+  "capture_mode": "region",
+  "ocr_language": "auto"
+}
