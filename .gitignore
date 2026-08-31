@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+error.log
+install.log
+check.log
+env_err.txt
+ocr_test*.txt
