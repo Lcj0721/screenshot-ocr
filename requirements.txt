@@ -1,0 +1,10 @@
+mss>=9.0.0
+Pillow>=10.0.0
+winocr>=0.0.15
+keyboard>=0.13.5
+pyperclip>=1.8.2
+pystray>=0.19.4
+
+# （可选）以下库仅在 Python 3.12 及以下时用于 OCR 兜底，
+# Python 3.13 用户无需安装。
+# winsdk>=1.0.0b10
